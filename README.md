@@ -2,4 +2,4 @@ Learning HTML form YouTube Tutorials:
 
 Day - 1 : 1 Hour of Tutorial Watched
 
-Topics covered - Doctype, Root element, Head and Body Element, Headings, Paragraph, Comment, Lists, Tables and Images
+Topics covered - Doctype, Root element, Head and Body Element, Headings, Paragraph, Comment, Lists, Tables, Images, Pre Element, Strong and Emphasize, Strikethrough, Subscript and Superscript.
